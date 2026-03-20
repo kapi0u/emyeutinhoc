@@ -4,7 +4,7 @@
 .noidung { color: black;
          font-weight: normal;
          font-size: 12pt;}
-.containner{
+.container{
          display: flex;
          flex-direction: column;
          height: 100vh;
